@@ -1,0 +1,6 @@
+DOMAIN = "openligadb"
+CONF_LEAGUE = "league"
+CONF_SEASON = "season"
+CONF_TEAM_ID = "team_id"
+CONF_TEAM_NAME = "team_name"
+DEFAULT_SEASON = "2025"

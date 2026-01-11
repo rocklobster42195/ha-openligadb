@@ -1,0 +1,12 @@
+{
+  "domain": "openligadb",
+  "name": "OpenLigaDB",
+  "codeowners": ["@dein_github_name"],
+  "config_flow": true,
+  "documentation": "https://github.com/dein_benutzername/ha-openligadb",
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/dein_benutzername/ha-openligadb/issues",
+  "requirements": [],
+  "version": "0.1.0"
+}
