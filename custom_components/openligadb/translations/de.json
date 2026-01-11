@@ -1,0 +1,23 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Liga auswählen",
+        "data": {
+          "league": "Liga",
+          "season": "Saison (z.B. 2025)"
+        }
+      },
+      "team": {
+        "title": "Mannschaft auswählen",
+        "data": {
+          "team_id": "Deine Mannschaft"
+        }
+      }
+    },
+    "abort": {
+      "already_configured": "Diese Mannschaft wurde bereits hinzugefügt."
+    }
+  },
+  "title": "Mannschaft hinzufügen"
+}

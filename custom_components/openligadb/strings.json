@@ -1,0 +1,25 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Liga auswählen",
+        "description": "Wähle die gewünschte Liga und das Startjahr der Saison.",
+        "data": {
+          "league": "Liga",
+          "season": "Saison (Startjahr)"
+        }
+      },
+      "team": {
+        "title": "Mannschaft wählen",
+        "description": "Wähle dein favorisiertes Team aus der Liste.",
+        "data": {
+          "team_id": "Mannschaft"
+        }
+      }
+    },
+    "abort": {
+      "already_configured": "Diese Mannschaft ist bereits konfiguriert."
+    }
+  },
+  "title": "OpenLigaDB"
+}
