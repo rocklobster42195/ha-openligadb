@@ -1,7 +1,3 @@
-Hier ist deine professionelle `ROADMAP.md`. Sie fasst alle unsere besprochenen Konzepte, die technischen Verbesserungen zur Beseitigung unschöner Begriffe wie "Hub" sowie die zukünftigen Visionen für Karten und Automatisierungen zusammen.
-
-***
-
 # 🗺 OpenLigaDB Integration - Roadmap & Ideen
 
 Dieses Dokument dient als zentrale Sammlung für geplante Features, UX-Verbesserungen und kreative Ideen, um die Integration zur ultimativen Fußball-Erfahrung in Home Assistant zu machen.
