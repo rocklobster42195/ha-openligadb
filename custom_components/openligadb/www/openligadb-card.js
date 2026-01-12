@@ -65,7 +65,7 @@ class OpenLigaDBCard extends HTMLElement {
     } else {
       if (isToday) badgeText = `Heute, ${timeOnly}`;
       else if (isTomorrow) badgeText = `Morgen, ${timeOnly}`;
-      else badgeText = matchDate.toLocaleDateString('de-DE', { weekday: 'short', day: '2-digit', month: '2-digit' }) + "., " + timeOnly;
+      else badgeText = matchDate.toLocaleDateString('de-DE', { weekday: 'short', day: '2-digit', month: '2-digit' }) + ", " + timeOnly;
     }
 
     const homeIcon = LOGO_MAPPING[attr.team_home_id] || attr.team_home_icon.replace('http:', 'https:');
