@@ -2,7 +2,7 @@
 
 Diese Integration bringt Live-Fußball-Daten von [OpenLigaDB.de](https://www.openligadb.de) direkt in dein Home Assistant Dashboard. Verfolge dein Lieblingsteam mit Live-Spielständen in einer Dashboard-Karte.
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0.1-blue.svg)
 ![HACS](https://img.shields.io/badge/HACS-Compatible-orange.svg)
 ![Home Assistant](https://img.shields.io/badge/Home--Assistant-2025.1+-green.svg)
 
