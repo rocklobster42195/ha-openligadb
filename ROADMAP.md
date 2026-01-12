@@ -40,9 +40,5 @@ Dieses Dokument dient als zentrale Sammlung für geplante Features, UX-Verbesser
 - [ ] **Kalender-Integration:** Automatisches Synchronisieren der Spieltermine in den Home Assistant Kalender.
 - [ ] **Sieg-Benachrichtigung:** Versenden einer "Push-Notification" mit dem Endergebnis direkt nach Abpfiff.
 
-## 🚀 Distribution
-- [ ] **HACS Integration:** Aufnahme in den offiziellen HACS-Default-Store.
-- [ ] **Versionierung:** Einführung eines sauberen Release-Zyklus (v1.1.0, v1.2.0 etc.) über Git-Tags.
-
 ---
 *Diese Roadmap ist ein lebendes Dokument. Ideen und Vorschläge aus der Community sind jederzeit willkommen!*
